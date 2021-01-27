@@ -1,0 +1,18 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "getmac": "^5.17.0",
+    "node-powershell": "^4.0.0",
+    "socket.io": "^3.0.4",
+    "socket.io-client": "^3.0.4"
+  }
+}
